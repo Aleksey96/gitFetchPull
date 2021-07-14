@@ -4,5 +4,6 @@ public class Main {
     public static void main(String[] args) {
         out.println("Hellow world!");
         //out.println("do git fetch");
+        out.println("do git pull");
     }
 }
